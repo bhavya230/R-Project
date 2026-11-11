@@ -1,0 +1,2 @@
+model,chisq.scaled,df.scaled,pvalue.scaled,cfi.scaled,tli.scaled,rmsea.scaled,rmsea.ci.lower.scaled,rmsea.ci.upper.scaled,srmr
+"original 5-factor, full sample",2436.787,692,0,0.93,0.925,0.069,0.066,0.072,0.061

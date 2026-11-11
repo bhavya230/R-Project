@@ -1,0 +1,3 @@
+model,chisq.scaled,df.scaled,pvalue.scaled,cfi.scaled,tli.scaled,rmsea.scaled,rmsea.ci.lower.scaled,rmsea.ci.upper.scaled,srmr
+partial mediation (full model),2598.856,803,0,0.922,0.928,0.065,0.063,0.068,0.062
+full mediation,2652.69,806,0,0.92,0.926,0.066,0.063,0.069,0.063

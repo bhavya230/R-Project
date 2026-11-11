@@ -1,0 +1,10 @@
+grouping,group,n,PE_s,DIFF_s,ATU_s,RISK_s,MIUA_s
+gender,Female,369,3.028,2.484,2.832,2.678,2.71
+gender,Male,166,3.108,2.57,2.959,2.719,2.849
+university,Private,61,3.197,2.923,2.999,2.989,3.062
+university,Public,474,3.034,2.457,2.855,2.652,2.714
+education,D3,91,3.264,2.996,3.11,3.168,3.066
+education,S1,444,3.01,2.411,2.822,2.592,2.689
+field,"Business, language & arts",90,3.051,2.641,2.789,2.763,2.662
+field,STEM,101,3.06,2.62,2.923,2.696,2.836
+field,Social sci & education,344,3.051,2.444,2.877,2.67,2.753
